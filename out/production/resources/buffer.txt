@@ -1,1 +1,7 @@
-﻿
+﻿﻿
+<b style='color:#1E90FF'>12:13:52. </b> <b style='color:#CD5C5C'>DiscoBall :</b><b style='color:#FF4500'>привет</b>﻿
+<b style='color:#1E90FF'>12:13:52. </b> <b style='color:#CD5C5C'>DiscoBall :</b><b style='color:#FF4500'>привет</b>
+<b style='color:#1E90FF'>12:13:56. </b> <b style='color:#CD5C5C'>DiscoBall :</b><b style='color:#FF4500'>привет</b>﻿
+<b style='color:#1E90FF'>12:13:52. </b> <b style='color:#CD5C5C'>DiscoBall :</b><b style='color:#FF4500'>привет</b>
+<b style='color:#1E90FF'>12:13:56. </b> <b style='color:#CD5C5C'>DiscoBall :</b><b style='color:#FF4500'>привет</b>
+<b style='color:#1E90FF'>12:14:02. </b> <b style='color:#CD5C5C'>DiscoBall :</b><b style='color:#FF4500'>как дела?</b>

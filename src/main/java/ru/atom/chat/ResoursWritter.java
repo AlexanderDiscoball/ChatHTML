@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.stream.Collectors;
 
 public class ResoursWritter {
-   private static final String filePath = "C:\\Users\\MC\\Desktop\\project\\httpchat\\src\\main\\resources\\buffer.txt";
+   private static final String filePath = "C:\\Users\\МС\\Desktop\\project\\httpchat\\src\\main\\resources\\buffer.txt";
     public static void write(Queue<String> messages) {
 
         String text = messages.stream()
@@ -42,7 +42,7 @@ public class ResoursWritter {
         for (String key : collection) {
             String namePlusKey = "\r\n" + usersOnline.get(key)+ "\r\n" + key;
             try {
-                FileWriter writer = new FileWriter("C:\\Users\\MC\\Desktop\\project\\httpchat\\src\\main\\resources\\loggins.txt", true);
+                FileWriter writer = new FileWriter("C:\\Users\\МС\\Desktop\\project\\httpchat\\src\\main\\resources\\loggins.txt", true);
                 BufferedWriter bufferWriter = new BufferedWriter(writer);
                 bufferWriter.write(namePlusKey);
                 bufferWriter.close();
@@ -57,7 +57,7 @@ public class ResoursWritter {
         int counter = 0;
         String pass = "";
         String name = "";
-        try (BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\MC\\Desktop\\project\\httpchat\\src\\main\\resources\\loggins.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\МС\\Desktop\\project\\httpchat\\src\\main\\resources\\loggins.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 if(counter%2==0)name = line;

@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="httpchat.main" target="1.8" />
       <module name="httpchat.test" target="1.8" />
+      <module name="Oldhttpchat.main" target="1.8" />
+      <module name="Oldhttpchat.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
